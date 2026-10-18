@@ -1,0 +1,28 @@
+{
+  "updates": [
+    {
+      "title": "Custom model support",
+      "description": "Added support for SA-MP 0.3.DL custom skins and custom models.",
+      "version": "v1.0.3",
+      "date": "September 4, 2026"
+    },
+    {
+      "title": "UV Animation",
+      "description": "UV animation can now be enabled or disabled from launcher settings.",
+      "version": "v1.0.2",
+      "date": "September 3, 2026"
+    },
+    {
+      "title": "Minify Mode",
+      "description": "Added an option to use packaged custom data instead of downloading server files.",
+      "version": "v1.0.1",
+      "date": "September 2, 2026"
+    },
+    {
+      "title": "Launcher redesign",
+      "description": "Redesigned the launcher interface with a new open.mp inspired theme.",
+      "version": "v1.0.0",
+      "date": "September 1, 2026"
+    }
+  ]
+}
