@@ -1,19 +1,32 @@
 {
-  "schemaVersion": 1,
-  "servers": [
-    {
-      "id": "sha256-of-lowercase-host-colon-port",
-      "name": "uif",
-      "host": "play.uifserver.net",
-      "port": 7776,
-      "hostname": null,
-      "players": null,
-      "maxPlayers": null,
-      "gameMode": null,
-      "language": null,
-      "passworded": null,
-      "approvedAt": "2026-10-18T00:00:00+00:00"
-    }
-  ],
-  "updatedAt": "2026-10-18T00:00:00+00:00"
+    "schemaVersion": 1,
+    "servers": [
+        {
+            "id": "cc72aed4e02e59ae16f977010571e4e6cbc5525316df64371e79d8b7a2641596",
+            "name": "uif",
+            "host": "play.uifserver.net",
+            "port": 7776,
+            "hostname": null,
+            "players": null,
+            "maxPlayers": null,
+            "gameMode": null,
+            "language": null,
+            "passworded": null,
+            "approvedAt": "2026-10-18T00:00:00+00:00"
+        },
+        {
+            "id": "be6d15bdfbe2dec7a7012b3144e0c5894735da739915b0cab9c9e87c40be30f5",
+            "name": "mama",
+            "host": "play.uifserver",
+            "port": 7776,
+            "hostname": null,
+            "players": null,
+            "maxPlayers": null,
+            "gameMode": null,
+            "language": null,
+            "passworded": null,
+            "approvedAt": "2026-10-18T09:20:35+00:00"
+        }
+    ],
+    "updatedAt": "2026-10-18T09:20:36+00:00"
 }
