@@ -2,7 +2,17 @@
   "schemaVersion": 1,
   "servers": [
     {
-    
+      "id": "sha256-of-lowercase-host-colon-port",
+      "name": "uif",
+      "host": "play.uifserver.net",
+      "port": 7776,
+      "hostname": null,
+      "players": null,
+      "maxPlayers": null,
+      "gameMode": null,
+      "language": null,
+      "passworded": null,
+      "approvedAt": "2026-10-18T00:00:00+00:00"
     }
   ],
   "updatedAt": "2026-10-18T00:00:00+00:00"
