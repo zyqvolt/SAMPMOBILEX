@@ -26,7 +26,20 @@
             "language": null,
             "passworded": null,
             "approvedAt": "2026-10-18T10:19:30+00:00"
+        },
+        {
+            "id": "23903ae9e1ec52e9f81e0ea08e0390554603940040118026eca249366665dbe9",
+            "name": "",
+            "host": "15.235.128.112",
+            "port": 7054,
+            "hostname": null,
+            "players": null,
+            "maxPlayers": null,
+            "gameMode": null,
+            "language": null,
+            "passworded": null,
+            "approvedAt": "2026-10-18T10:19:42+00:00"
         }
     ],
-    "updatedAt": "2026-10-18T10:19:31+00:00"
+    "updatedAt": "2026-10-18T10:19:43+00:00"
 }
