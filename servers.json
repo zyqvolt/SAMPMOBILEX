@@ -1,19 +1,5 @@
 {
     "schemaVersion": 1,
-    "servers": [
-        {
-            "id": "cc72aed4e02e59ae16f977010571e4e6cbc5525316df64371e79d8b7a2641596",
-            "name": "uif",
-            "host": "play.uifserver.net",
-            "port": 7776,
-            "hostname": null,
-            "players": null,
-            "maxPlayers": null,
-            "gameMode": null,
-            "language": null,
-            "passworded": null,
-            "approvedAt": "2026-10-18T00:00:00+00:00"
-        }
-    ],
-    "updatedAt": "2026-10-18T09:20:46+00:00"
+    "servers": [],
+    "updatedAt": "2026-10-18T09:23:49+00:00"
 }
