@@ -7,7 +7,7 @@
             "host": "play.uifserver.net",
             "port": 7776,
             "hostname": "                UIF - United Islands Freeroam",
-            "players": 131,
+            "players": 114,
             "maxPlayers": 1000,
             "gameMode": "UIF build 157",
             "language": "English",
@@ -41,5 +41,5 @@
             "approvedAt": "2026-10-18T10:19:42+00:00"
         }
     ],
-    "updatedAt": "2026-10-18T10:19:43+00:00"
+    "updatedAt": "2026-10-18T10:19:50+00:00"
 }
