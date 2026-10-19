@@ -1,1 +1,19 @@
-{}
+{
+    "schemaVersion": 1,
+    "servers": [
+        {
+            "id": "cc72aed4e02e59ae16f977010571e4e6cbc5525316df64371e79d8b7a2641596",
+            "name": "",
+            "host": "play.uifserver.net",
+            "port": 7776,
+            "hostname": "                UIF - United Islands Freeroam",
+            "players": 114,
+            "maxPlayers": 1000,
+            "gameMode": "UIF build 157",
+            "language": "English",
+            "passworded": false,
+            "approvedAt": "2026-10-18T09:24:14+00:00"
+        }
+    ],
+    "updatedAt": "2026-10-18T10:20:01+00:00"
+}
