@@ -13,7 +13,20 @@
             "language": "English",
             "passworded": false,
             "approvedAt": "2026-10-18T09:24:14+00:00"
+        },
+        {
+            "id": "127782da634f0393df2f7ed9fa49a2e0c0477c87a4e442b4340ef417c11f61b6",
+            "name": "Fourtys roleplay",
+            "host": "103.150.61.163",
+            "port": 1234,
+            "hostname": "40s Roleplay | FiveM ke Fourtys, Oldschool ke JGRP!",
+            "players": 0,
+            "maxPlayers": 100,
+            "gameMode": "40RP v2.6b5",
+            "language": "Indonesia/English",
+            "passworded": false,
+            "approvedAt": "2026-10-27T08:42:11+00:00"
         }
     ],
-    "updatedAt": "2026-10-27T08:41:31+00:00"
+    "updatedAt": "2026-10-27T08:42:12+00:00"
 }
