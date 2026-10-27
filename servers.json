@@ -41,19 +41,6 @@
             "approvedAt": "2026-10-27T08:42:18+00:00"
         },
         {
-            "id": "71be0c129639d3d3bd6cc2533b31aacf54dd3b890f0c965294c3fd0f3baa805f",
-            "name": "BISAYA ROLEPLAY",
-            "host": "play.bisaya.roleplay",
-            "port": 7777,
-            "hostname": null,
-            "players": null,
-            "maxPlayers": null,
-            "gameMode": null,
-            "language": null,
-            "passworded": null,
-            "approvedAt": "2026-10-27T08:42:30+00:00"
-        },
-        {
             "id": "7b4966b7ce3525b885e8196ba514f1e880584c434594499709fc1839421e11ed",
             "name": "நம்ம ஊர் RP",
             "host": "51.38.205.167",
@@ -67,5 +54,5 @@
             "approvedAt": "2026-10-27T08:42:39+00:00"
         }
     ],
-    "updatedAt": "2026-10-27T08:42:40+00:00"
+    "updatedAt": "2026-10-27T08:43:11+00:00"
 }
