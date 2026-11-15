@@ -78,7 +78,20 @@
             "language": "Bangla/English",
             "passworded": false,
             "approvedAt": "2026-10-27T08:44:08+00:00"
+        },
+        {
+            "id": "e19c1ff0138565e8d7ae5f0abb57ae406db03750814616e69b61ae7c82d6febc",
+            "name": "INMAY",
+            "host": "43.156.129.70",
+            "port": 7777,
+            "hostname": null,
+            "players": null,
+            "maxPlayers": null,
+            "gameMode": null,
+            "language": null,
+            "passworded": null,
+            "approvedAt": "2026-11-15T15:57:40+00:00"
         }
     ],
-    "updatedAt": "2026-10-27T08:44:08+00:00"
+    "updatedAt": "2026-11-15T15:57:41+00:00"
 }
