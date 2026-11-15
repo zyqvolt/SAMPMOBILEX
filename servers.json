@@ -91,7 +91,20 @@
             "language": null,
             "passworded": null,
             "approvedAt": "2026-11-15T15:57:40+00:00"
+        },
+        {
+            "id": "e1e670a01dab7a801d554e222918055f078d459195e660bbd1e13160ac6fe15b",
+            "name": "",
+            "host": "u",
+            "port": 7777,
+            "hostname": null,
+            "players": null,
+            "maxPlayers": null,
+            "gameMode": null,
+            "language": null,
+            "passworded": null,
+            "approvedAt": "2026-11-15T15:57:42+00:00"
         }
     ],
-    "updatedAt": "2026-11-15T15:57:41+00:00"
+    "updatedAt": "2026-11-15T15:57:43+00:00"
 }
