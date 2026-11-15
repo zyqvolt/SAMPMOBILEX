@@ -104,7 +104,20 @@
             "language": null,
             "passworded": null,
             "approvedAt": "2026-11-15T15:57:42+00:00"
+        },
+        {
+            "id": "9edf821fdb6445ffec65a27cfe95a105b9f6a1d3e4367649d1e85ced33c3b525",
+            "name": "HopeCity Roleplay",
+            "host": "104.234.177.42",
+            "port": 7026,
+            "hostname": "Textdraw Editor 1.6",
+            "players": 0,
+            "maxPlayers": 30,
+            "gameMode": "Textdraw Editor 1.6",
+            "language": "Multi Language",
+            "passworded": false,
+            "approvedAt": "2026-11-15T15:57:44+00:00"
         }
     ],
-    "updatedAt": "2026-11-15T15:57:43+00:00"
+    "updatedAt": "2026-11-15T15:57:45+00:00"
 }
